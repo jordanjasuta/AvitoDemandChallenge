@@ -1,2 +1,0 @@
-cd "/cygdrive/c/Users/Jordan/Documents/MSBA Coursework/Summer 2018/Machine Learning/ForGithub"
-
