@@ -6,7 +6,7 @@ The final submission can be found under team name HMJP at:
 _________________________________________________________________________________________________
 
 ## Model building
-Data preprocessing was carried out in several steps: 
+#### Data preprocessing was carried out in several steps: 
 
    a. Base preprocessing
 
@@ -20,7 +20,7 @@ Data preprocessing was carried out in several steps:
 
 
 
-Various Base models were built using newly processed data 
+#### Various Base models were built using newly processed data 
 
    a. Neural Network 
 
@@ -34,7 +34,7 @@ Various Base models were built using newly processed data
 
 
 
-Intermediary models were created using both base models from (2) and select features from the preprocessed data 
+#### Intermediary models were created using both base models from (2) and select features from the preprocessed data 
 
    a. Stacked LightGBM combining base models (a), (b), and (c) from (2) and select features from preprocessed data 
 
@@ -44,7 +44,7 @@ Intermediary models were created using both base models from (2) and select feat
 
 
 
-Final Blended model 
+#### Final Blended model 
 
    a. Blended model using intermediary models (a), (b) and (c) from (3), and base models (b), (c), (d), (e), and (f) from (2)
 
