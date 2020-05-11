@@ -1,7 +1,7 @@
 # Avito Demand Challenge Kaggle Competition
 ### Submission by Huilin Cai, Minxuan Chen, Jordan Fischer and Parisa Mofakham
 
-The final submission can be found under team name HMJP at: 
+The final submission can be found under team name HJMP at: 
 <https://www.kaggle.com/c/avito-demand-prediction/submissions?sortBy=date&group=all&page=1>
 _________________________________________________________________________________________________
 
